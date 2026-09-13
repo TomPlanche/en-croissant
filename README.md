@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/franciscoBSalgueiro/en-croissant">
-    <img width="115" height="115" src="https://github.com/franciscoBSalgueiro/en-croissant/blob/master/src-tauri/icons/icon.png" alt="Logo">
+    <img width="115" height="115" src="https://raw.githubusercontent.com/franciscoBSalgueiro/en-croissant/master/src-tauri/icons/icon.png" alt="Logo">
   </a>
 
 <h3 align="center">En Croissant</h3>
@@ -30,7 +30,7 @@ En-Croissant is an open-source, cross-platform chess GUI that aims to be powerfu
 - Simple engine and database installation and management
 - Absolute or partial position search in the database
 
-<img src="https://github.com/franciscoBSalgueiro/encroisssant-site/blob/master/public/showcase.webp" />
+<img src="https://raw.githubusercontent.com/franciscoBSalgueiro/encroisssant-site/master/public/showcase.webp" />
 
 ## Building from source
 
